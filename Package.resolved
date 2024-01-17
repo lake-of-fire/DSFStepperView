@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "DSFAppearanceManager",
-        "repositoryURL": "https://github.com/dagronf/DSFAppearanceManager",
+        "repositoryURL": "https://github.com/lake-of-fire/DSFAppearanceManager",
         "state": {
-          "branch": null,
-          "revision": "676cfd4e6aaa3cf6422990734c22544373db5c1a",
-          "version": "3.3.0"
+          "branch": "main",
+          "revision": "37365166f7c3636b54e4d619a79a93c3f3f40c19",
+          "version": null
         }
       }
     ]
